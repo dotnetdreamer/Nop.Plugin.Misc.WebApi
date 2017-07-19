@@ -1,0 +1,9 @@
+﻿Group: eShop
+FriendlyName: Web Api
+SystemName: Misc.WebApi
+Version: 1.0
+SupportedVersions: 3.90
+Author: Web api developer
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.WebApi.dll
+Description: This plugin allows you to make web api services
